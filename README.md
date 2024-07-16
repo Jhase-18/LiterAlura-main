@@ -84,8 +84,8 @@ Las contribuciones son bienvenidas. Por favor, sigue los siguientes pasos:
 
 ## Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT. Para más detalles, consulta el archivo [LICENSE](LICENSE).
+Este proyecto no tiene licencia.
 
 ## Contacto
 
-Si tienes alguna pregunta o sugerencia, por favor contacta a [hansalejandroca@gmail.com](mailto:tu_email@dominio.com).
+Si tienes alguna pregunta o sugerencia, por favor contacta a [serrato-18@hotmail.com](mailto:tu_email@dominio.com).
